@@ -1,0 +1,9 @@
+. List item
+.[[link1]] List item
+.. List item
+...[[link2]] List item
+.. List item
+. List item
+. List item
+
+Link to the <<link1>> item. Another link is to the <<link2>> item.
