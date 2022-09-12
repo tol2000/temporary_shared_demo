@@ -1,33 +1,56 @@
 = Examples
 
-== Example 3
-
-* [[one,item one]]Details of item one
-* [[two,item two]]Details of item two
-
-link: <<one,item one>>
-link: <<two,item two>>
-
 == Example 1
 
-. List item
-.[[link1]] List item
-.. List item
-...[[link2]] List item
-.. List item
-. List item
-. List item
+. List item a
+. [#stepid]#List item b#
+.. List item c
+... [[itemd]] List item d
+.. List item e
+. List item f
+. List item g
 
-Link to the <<link1>> item. Another link is to the <<link2>> item.
+Link to the <<stepid, item b>> item. Another link is to the <<itemd, item d>> item.
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
 
-== Example 2
-
-. List item
-.[[link3]] List item
-.. List item
-...[[link4]] List item
-.. List item
-. List item
-. List item
-
-Link to the <<link3>> item. Another link is to the <<link4>> item.
+== Dummy
